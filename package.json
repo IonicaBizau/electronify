@@ -6,7 +6,6 @@
   "directories": {
     "example": "example"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "electron example"
   },
@@ -26,9 +25,15 @@
   },
   "homepage": "https://github.com/IonicaBizau/electronify#readme",
   "blah": {
-      "ex_img": "http://i.imgur.com/9k48yD2.png",
-      "h_img": "http://i.imgur.com/q2L4Qna.png",
-      "title": "Electronify",
-      "description": "[Electron](https://github.com/atom/electron) is amazing! Electronify makes its usage simpler by reusing the same code snippets in common apps."
+    "ex_img": "http://i.imgur.com/9k48yD2.png",
+    "h_img": "http://i.imgur.com/q2L4Qna.png",
+    "title": "Electronify",
+    "description": "[Electron](https://github.com/atom/electron) is amazing! Electronify makes its usage simpler by reusing the same code snippets in common apps."
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.34.0"
+  },
+  "dependencies": {
+    "ul": "^5.0.0"
   }
 }
