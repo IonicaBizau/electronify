@@ -13,6 +13,8 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
+[![electronify](http://i.imgur.com/q2L4Qna.png)](#)
+
 # Electronify [![Donate now][donate-now]][paypal-donations]
 
 The simplest way to build Electron apps.
