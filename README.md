@@ -21,7 +21,7 @@ The simplest way to build Electron apps.
 
 [Electron](https://github.com/atom/electron) is amazing! Electronify makes its usage simpler by reusing the same code snippets in common apps.
 
-[![electronify](http://i.imgur.com/9k48yD2.png)](#)
+[![electronify](http://i.imgur.com/o5sBv1w.png)](#)
 
 ## Installation
 
