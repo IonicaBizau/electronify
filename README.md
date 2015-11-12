@@ -11,7 +11,7 @@ The simplest way to build Electron apps.
 ## Installation
 
 ```sh
-$ npm i -g electronify
+$ npm i electronify
 ```
 
 ## Example
