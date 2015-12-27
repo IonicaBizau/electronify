@@ -31,9 +31,9 @@
     "description": "[Electron](https://github.com/atom/electron) is amazing! Electronify makes its usage simpler by reusing the same code snippets in common apps."
   },
   "devDependencies": {
-    "electron-prebuilt": "^0.34.0"
+    "electron-prebuilt": "^0.36.2"
   },
   "dependencies": {
-    "ul": "^5.0.0"
+    "ul": "^5.2.0"
   }
 }
