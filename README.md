@@ -23,8 +23,7 @@ $ npm i --save electronify
 
 
 ```js
-// Dependencies
-var Electronify = require("electronify");
+const Electronify = require("electronify");
 
 // Create the app
 var app = Electronify(__dirname + "/app/index.html", {
@@ -53,6 +52,12 @@ Creates a new browser window based on Electron.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`magnesium`](https://github.com/IonicaBizau/magnesium#readme)—A terminal emulator based on Electron.
+ - [`photon-browser`](https://github.com/IonicaBizau/photon-browser#readme)—A tiny web browser based on Photon and Electron.
 
 ## :scroll: License
 
