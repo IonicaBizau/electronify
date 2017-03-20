@@ -1,6 +1,6 @@
 {
   "name": "electronify",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "The simplest way to build Electron apps.",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "applications",
     "desktop"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/electronify/issues"
@@ -40,12 +40,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
