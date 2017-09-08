@@ -1,6 +1,6 @@
 {
   "name": "electronify",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "The simplest way to build Electron apps.",
   "main": "lib/index.js",
   "directories": {
@@ -46,6 +46,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
