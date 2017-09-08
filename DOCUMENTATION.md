@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Creates a new browser window based on Electron.
 
 #### Params
+
 - **String** `path`: The path to the HTML file.
 - **Object** `options`: An object representing the browser window options. It has the following defaults:
  - `width` (Number): The window width (default: `800`).
