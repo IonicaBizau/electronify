@@ -16,7 +16,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save electronify
+# Using npm
+npm install --save electronify
+
+# Using yarn
+yarn add electronify
 ```
 
 
